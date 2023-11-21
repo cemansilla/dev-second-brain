@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Facades;
+namespace App\DesignPatterns\Facades;
 
-use App\ThirdParty\GoogleDriveApi;
+use App\DesignPatterns\ThirdParty\GoogleDriveApi;
 
 class GoogleDrive
 {

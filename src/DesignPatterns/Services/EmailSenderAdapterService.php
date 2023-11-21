@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Services;
+namespace App\DesignPatterns\Services;
 
-use App\Interfaces\EmailAdapterInterface;
-use App\ThirdParty\SomeLegacyEmailService;
+use App\DesignPatterns\Interfaces\EmailAdapterInterface;
+use App\DesignPatterns\ThirdParty\SomeLegacyEmailService;
 
 class EmailSenderAdapterService implements EmailAdapterInterface
 {

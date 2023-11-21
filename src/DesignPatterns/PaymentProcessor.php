@@ -1,8 +1,8 @@
 <?php
 
-namespace App;
+namespace App\DesignPatterns;
 
-use App\Interfaces\PaymentStrategyInterface;
+use App\DesignPatterns\Interfaces\PaymentStrategyInterface;
 
 class PaymentProcessor
 {

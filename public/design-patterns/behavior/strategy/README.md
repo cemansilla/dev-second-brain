@@ -1,6 +1,6 @@
 # Strategy (or Policy)
 
-[Back to home](./../../../../README.md)
+[Back to home](./../../../../)
 
 ## Definition
 
@@ -10,7 +10,7 @@ It is based on composition rather than inheritance.
 
 ### Components
 
-![Design Pattern Strategy](./../../../../assets/images/dodumentation/design-pattern-strategy.png)
+<img src="./../../../../assets/images/documentation/design-pattern-strategy.png" alt="Design Pattern Strategy" style="width:400px;height:auto;">
 
 #### Context
 

@@ -1,6 +1,6 @@
 # Factory
 
-[Back to home](./../../../../README.md)
+[Back to home](./../../../../)
 
 ## Definition
 
@@ -10,7 +10,7 @@ It separates the construction of an object type from the logic of using that obj
 
 ### Components
 
-![Design Pattern Adapter](./../../../../assets/images/dodumentation/design-pattern-factory.png)
+<img src="./../../../../assets/images/documentation/design-pattern-factory.png" alt="Design Pattern Factory" style="width:400px;height:auto;">
 
 #### Creator Class
 

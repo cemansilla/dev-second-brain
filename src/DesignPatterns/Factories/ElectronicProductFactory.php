@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Factories;
+namespace App\DesignPatterns\Factories;
 
-use App\Interfaces\ProductFactoryInterface;
-use App\Models\ElectronicProduct;
+use App\DesignPatterns\Interfaces\ProductFactoryInterface;
+use App\DesignPatterns\Models\ElectronicProduct;
 
 class ElectronicProductFactory extends ProductFactory
 {

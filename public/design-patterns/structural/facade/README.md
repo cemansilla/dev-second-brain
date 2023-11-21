@@ -1,6 +1,6 @@
 # Facade
 
-[Back to home](./../../../../README.md)
+[Back to home](./../../../../)
 
 ## Definition
 
@@ -14,7 +14,7 @@ It serves, for example, to expose only certain methods of the system or to simpl
 
 ### Components
 
-![Design Pattern Adapter](./../../../../assets/images/dodumentation/design-pattern-facade.png)
+<img src="./../../../../assets/images/documentation/design-pattern-facade.png" alt="Design Pattern Facade" style="width:400px;height:auto;">
 
 #### Facade
 

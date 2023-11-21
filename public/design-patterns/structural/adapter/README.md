@@ -1,6 +1,6 @@
 # Adapter
 
-[Back to home](./../../../../README.md)
+[Back to home](./../../../../)
 
 ## Definition
 
@@ -16,7 +16,7 @@ It converts the interface of a class into another that the client expects.
 
 ### Components
 
-![Design Pattern Adapter](./../../../../assets/images/dodumentation/design-pattern-adapter.png)
+<img src="./../../../../assets/images/documentation/design-pattern-adapter.png" alt="Design Pattern Adapter" style="width:400px;height:auto;">
 
 #### Client
 

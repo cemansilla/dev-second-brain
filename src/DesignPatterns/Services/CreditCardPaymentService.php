@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services;
+namespace App\DesignPatterns\Services;
 
-use App\Interfaces\PaymentStrategyInterface;
+use App\DesignPatterns\Interfaces\PaymentStrategyInterface;
 
 class CreditCardPaymentService implements PaymentStrategyInterface
 {

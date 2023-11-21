@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Factories;
+namespace App\DesignPatterns\Factories;
 
-use App\Interfaces\ProductFactoryInterface;
+use App\DesignPatterns\Interfaces\ProductFactoryInterface;
 
 abstract class ProductFactory
 {

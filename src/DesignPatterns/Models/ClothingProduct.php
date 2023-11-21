@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Models;
+namespace App\DesignPatterns\Models;
 
-use App\Interfaces\ProductFactoryInterface;
+use App\DesignPatterns\Interfaces\ProductFactoryInterface;
 
 class ClothingProduct implements ProductFactoryInterface
 {

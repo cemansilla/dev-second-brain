@@ -2,9 +2,9 @@
 
 require dirname(__DIR__, 4) . "/vendor/autoload.php";
 
-use App\PaymentProcessor;
-use App\Services\CreditCardPaymentService;
-use App\Services\PaypalPaymentService;
+use App\DesignPatterns\PaymentProcessor;
+use App\DesignPatterns\Services\CreditCardPaymentService;
+use App\DesignPatterns\Services\PaypalPaymentService;
 
 $creditCardPaymentService = new CreditCardPaymentService();
 $paypalPaymentService = new PaypalPaymentService();
